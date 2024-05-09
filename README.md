@@ -6,8 +6,11 @@ This project implements a book recommendation system using collaborative filteri
 Features
 
 Collaborative filtering: 
+
 Recommends books based on similarities with other users' preferences.
+
 Popularity-based recommendation: 
+
 Suggests popular books irrespective of user preferences.
 Machine learning model: 
 redicts the accuracy of recommendations using ML algorithms.
